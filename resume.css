@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(17, 17, 46);
+}
+header h1{
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-self: center;
+    font-size: x-larger;
+}
+.btn{
+    position: relative;
+    padding: 20px;
+    display: grid;
+    justify-content: center;
+    align-self: center;
+}
+
+.download-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    border-radius: 5px;
+  }
+  
+  .download-button:hover {
+    background-color: #45a049;
+  }
+.resume{
+    display: grid;
+    justify-content: center;
+    align-self: center;
+}
+  /* .resume img{
+    position: relative;
+    width: 40%;
+  } */
