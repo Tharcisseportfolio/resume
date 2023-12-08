@@ -2,6 +2,21 @@ body{
     background-color: rgb(10, 10, 44);
     color: aqua;
 }
+a{
+    color: white;
+    font-size: 30px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+button{
+    position: relative;
+    background-color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 30px;
+    border-radius: 3px;
+    text-decoration: none;
+}
 
 h{
     position: relative;
@@ -10,4 +25,13 @@ h{
     align-self: center;
     padding: 20px 20px;
     font-size: 30px;
+}
+img{
+    position: relative;
+    width: 50%;
+    height: 70%;
+    left: 30em;
+    border-style: solid;
+    color: antiquewhite;
+    border-radius: 10px;
 }
