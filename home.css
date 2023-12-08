@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(10, 10, 44);
+    color: aqua;
+}
+
+h{
+    position: relative;
+    display: grid;
+    justify-content: center;
+    align-self: center;
+    padding: 20px 20px;
+    font-size: 30px;
+}
