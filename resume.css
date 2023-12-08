@@ -8,33 +8,30 @@ header h1{
     align-self: center;
     font-size: x-larger;
 }
-.btn{
-    position: relative;
-    padding: 20px;
-    display: grid;
-    justify-content: center;
-    align-self: center;
-}
 
-.download-button {
+a{
+    position: relative;
     display: inline-block;
+    margin-right: 30px;
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
     text-decoration: none;
     font-size: 24px;
     border-radius: 5px;
+    left: 18em;
   }
-  
-  .download-button:hover {
-    background-color: #45a049;
-  }
+.download-button{
+    background-color: blueviolet;
+}
+
 .resume{
     display: grid;
     justify-content: center;
     align-self: center;
-}
-  /* .resume img{
+} 
+  .resume img{
     position: relative;
-    width: 40%;
-  } */
+    top: 3em;
+    width: 100%;
+  }
